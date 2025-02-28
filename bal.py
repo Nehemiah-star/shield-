@@ -30,3 +30,27 @@ fact= 1
 for i in range (1,n+1):
     fact*=i
     print(fact)
+<BS>
+num=1
+while (num<100):
+    mult= 5*num
+    
+
+
+    if mult%10==0:
+        continue
+    print(mult)
+
+    num+=1
+    um=1
+while (num<100):
+    mult= 5*num
+    
+
+
+    if mult%10==0:
+        continue
+    print(mult)
+
+    num+=1
+    
