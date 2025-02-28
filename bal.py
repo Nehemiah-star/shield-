@@ -53,4 +53,5 @@ while (num<100):
     print(mult)
 
     num+=1
-   my name is nehemiah mathew 
+   my name is nehemiah mathew
+   my friend is joszzz
