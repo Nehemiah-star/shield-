@@ -22,3 +22,11 @@ while i<=10:
     
 print(sum)
 ffggfgfgf
+for i in range(1,101,2):
+    print(i)
+
+n=5
+fact= 1
+for i in range (1,n+1):
+    fact*=i
+    print(fact)
