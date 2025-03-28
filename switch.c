@@ -16,4 +16,13 @@ int main() {
 	case 3:
 	    printf("btech ece.\n")
 	    break;
+	case 4:
+	    printf("btech ME.\n")
+	    break;
+	     default:
+            printf("Invalid choice.\n");
+    }
+
+    return 0;
+}
 
