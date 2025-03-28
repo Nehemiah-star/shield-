@@ -8,7 +8,7 @@ int main() {
 
     switch(choice) {
         case 1:
-            printf("You selected One.\n")
+            printf("btech ai\n")
 	    break;
 	case 2:
 	    printf("btech aiml.\n")
