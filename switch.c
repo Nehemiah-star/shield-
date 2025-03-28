@@ -17,7 +17,7 @@ int main() {
 	    printf("btech ece. (about electronics)\n")
 	    break;
 	case 4:
-	    printf("btech ME.\n")
+	    printf("btech ME (about mechanical things).\n")
 	    break;
 	     default:
             printf("Invalid choice.\n");
