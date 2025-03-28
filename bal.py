@@ -55,4 +55,7 @@ while (num<100):
     num+=1
    my name is nehemi mathew
    my friend is joszz
-   you feel good all the time 
+   you feel good all the times
+
+all the days are good nowdays
+how are you??
