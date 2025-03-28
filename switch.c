@@ -10,4 +10,10 @@ int main() {
         case 1:
             printf("You selected One.\n")
 	    break;
+	case 2:
+	    printf("btech aiml.\n")
+	    break;
+	case 3:
+	    printf("btech ece.\n")
+	    break;
 
