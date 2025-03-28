@@ -11,7 +11,7 @@ int main() {
             printf("btech ai\n")
 	    break;
 	case 2:
-	    printf("btech aiml.\n")
+	    printf("btech aiml. (about intelligence)\n")
 	    break;
 	case 3:
 	    printf("btech ece.\n")
